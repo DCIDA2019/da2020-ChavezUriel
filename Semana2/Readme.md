@@ -1,0 +1,1 @@
+En el archivo "EntregaActividad2.ipynb" se encuentra el desarrollo del punto 3 del ejercicio de la semana 2. En los archivos "ApuntesPython.ipynb" y "ApuntesPandas.ipynb" se hicieron algunos ensayos mientras se daba lectura a algunos capítulos del libro. El resto de los archivos con extensión .csv fueron usados como fuente de información para la actividad.
